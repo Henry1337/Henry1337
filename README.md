@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Henry Lu
-- 👀 I’m interested in automation
-- 🌱 I’m currently learning Go and Linux
 
 <!---
 Henry1337/Henry1337 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
